@@ -1,29 +1,4 @@
-/*-----------------------------------------------------------
-* Template Name    : Vendrick - Personal Portfolio Template
-* Author           : pavloff-studio
-* Version          : 1.0.0
-* Created          : Nov 2019
-* File Description : Main css file of the template
-*------------------------------------------------------------
-*/
 
-/***********************
-    1.FONTS
-    2.BASIC
-    3.HELPER
-    4.NAVIGATION
-    5.HEADER
-    6.BANNER
-    7.ABOUT 
-    8.RESUME
-    9.SERVICES
-    10.COUNTERS
-    11.WORKS
-    12.BLOG
-    13.CONTACT
-    14.FOOTER
-    15.PRELOADER
-************************/
 
 /*======================
         1.FONTS
@@ -1242,7 +1217,7 @@ header .navbar-brand .logo {
   color: #fff;
   height: 50px;
   width: 250px;
-  background-image: url(../../dark/images/logogds.png)
+  background-image: url(../images/logogds.png)
 }
 
 header .navbar-brand .logo:hover {
