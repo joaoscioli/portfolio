@@ -1,18 +1,19 @@
+@font-face {
+  font-family: candy;
+  src: url("/fonts/candy.woff");
+  src: url("/fonts/candy.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/candy.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("/fonts/candy.woff2") format("woff2"), /* Super Modern Browsers */
+       url("/fonts/candy.woff") format("woff"), /* Pretty Modern Browsers */
+       url("/fonts/candy.ttf")  format("truetype"), /* Safari, Android, iOS */
+       url("/fonts/candy.svg#svgFontName") format("svg"); /* Legacy iOS */
+}
 body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
 }
-@font-face {
-  font-family: candy;
-  src: url("./fonts/candy.woff");
-  src: url("./fonts/candy.eot"); /* IE9 Compat Modes */
-  src: url("./fonts/candy.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-       url("./fonts/candy.woff2") format("woff2"), /* Super Modern Browsers */
-       url("./fonts/candy.woff") format("woff"), /* Pretty Modern Browsers */
-       url("./fonts/candy.ttf")  format("truetype"), /* Safari, Android, iOS */
-       url("./fonts/candy.svg#svgFontName") format("svg"); /* Legacy iOS */
-}
+
 .layout_padding {
   padding: 75px 0;
 }
