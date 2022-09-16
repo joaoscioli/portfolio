@@ -1,11 +1,12 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: candy;
+  src: url("./fonts/candy_bb.woff");
   color: #0c0c0c;
   background-color: #ffffff;
 }
 @font-face {
   font-family: candy;
-  src: url(/fonts/candy_bb.woff);
+  src: url("./fonts/candy_bb.woff");
 }
 .layout_padding {
   padding: 75px 0;
