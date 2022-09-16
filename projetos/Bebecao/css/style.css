@@ -1,6 +1,5 @@
 body {
-  font-family: candy;
-  src: url("./fonts/candy_bb.woff");
+  font-family: "Poppins", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
 }
