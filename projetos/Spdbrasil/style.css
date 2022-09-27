@@ -120,6 +120,25 @@ p.parceirosTxt {
   height: 50px;
   width: 50px;
 }
+
+.parceirosLogo {
+  display: flex;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.parceirosLogo p {
+  color: white;
+  font-family: 'Squada One';
+  font-size: larger;
+  text-align: justify;
+}
+
+.services, .service-box p{
+  padding: 10px;
+}
+
 /*Fim Novo Estilo*/
 
 h1,h2 {
